@@ -1,5 +1,6 @@
-![1) Open](https://user-images.githubusercontent.com/87261885/125192381-31340880-e265-11eb-9938-93a6c363c238.png)
 # Encryption-based-password-Manager
+
+![1) Open](https://user-images.githubusercontent.com/87261885/125192381-31340880-e265-11eb-9938-93a6c363c238.png)
 
 * Generate a random password
 * Save it in a file encrypted using AES Encryption by generating the key using "cryptography" python module
