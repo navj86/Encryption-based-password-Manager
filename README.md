@@ -1,3 +1,4 @@
+![1) Open](https://user-images.githubusercontent.com/87261885/125192381-31340880-e265-11eb-9938-93a6c363c238.png)
 # Encryption-based-password-Manager
 
 * Generate a random password
